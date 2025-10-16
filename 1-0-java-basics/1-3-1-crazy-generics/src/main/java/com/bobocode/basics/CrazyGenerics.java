@@ -1,6 +1,8 @@
 package com.bobocode.basics;
 
 import com.bobocode.basics.util.BaseEntity;
+
+
 import com.bobocode.util.ExerciseNotCompletedException;
 import lombok.Data;
 
