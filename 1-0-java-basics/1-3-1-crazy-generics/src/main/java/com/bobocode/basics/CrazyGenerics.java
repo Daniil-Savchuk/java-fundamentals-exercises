@@ -1,7 +1,8 @@
 package com.bobocode.basics;
 
 import com.bobocode.basics.util.BaseEntity;
-
+import java.util.Optional;
+import java.util.function.Predicate;
 
 import com.bobocode.util.ExerciseNotCompletedException;
 import lombok.Data;
